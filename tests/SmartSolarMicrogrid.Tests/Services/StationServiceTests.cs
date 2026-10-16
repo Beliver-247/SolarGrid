@@ -1,6 +1,6 @@
 /*
  * Purpose: Unit tests for Station rules (active reservations block deactivation).
- * Author: Antigravity
+ * Author: Kodithuwakku I.P. (IT22189776)
  * Date: 2026-09-22
  */
 using FluentAssertions;
