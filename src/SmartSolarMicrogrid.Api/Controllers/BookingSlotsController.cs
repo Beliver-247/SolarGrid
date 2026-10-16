@@ -1,6 +1,6 @@
 /*
  * Purpose: Booking Slot management endpoints.
- * Author: Kodithuwakku I.P. (IT22189776)
+ * Author: Antigravity
  * Date: 2026-09-22
  */
 using Microsoft.AspNetCore.Authorization;

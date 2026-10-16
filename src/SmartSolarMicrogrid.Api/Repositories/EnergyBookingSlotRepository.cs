@@ -1,6 +1,6 @@
 /*
  * Purpose: Booking slot repository implementation.
- * Author: Kodithuwakku I.P. (IT22189776)
+ * Author: Antigravity
  * Date: 2026-09-22
  */
 using Microsoft.Extensions.Options;

@@ -1,6 +1,6 @@
 /*
  * Purpose: Prosumer DTOs.
- * Author: Rathnayaka D.M.B.H. (IT22149930)
+ * Author: Antigravity
  * Date: 2026-09-22
  */
 using System;

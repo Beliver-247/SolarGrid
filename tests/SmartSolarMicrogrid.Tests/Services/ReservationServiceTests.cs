@@ -1,6 +1,6 @@
 /*
  * Purpose: Unit tests for Reservation rules (7-day rule, 12-hour rule).
- * Author: Thassara M.P.M. (IT22239198)
+ * Author: Antigravity
  * Date: 2026-09-22
  */
 using FluentAssertions;

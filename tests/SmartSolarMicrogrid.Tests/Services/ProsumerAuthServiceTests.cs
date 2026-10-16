@@ -1,6 +1,6 @@
 /*
  * Purpose: Unit tests for Prosumer rules (NIC uniqueness).
- * Author: Rathnayaka D.M.B.H. (IT22149930)
+ * Author: Antigravity
  * Date: 2026-09-22
  */
 using FluentAssertions;
